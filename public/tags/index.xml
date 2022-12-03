@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pau Marín</title>
+    <link>https://paumar.in/tags/</link>
+    <description>Recent content in Tags on Pau Marín</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Dec 2022 18:33:34 +0100</lastBuildDate><atom:link href="https://paumar.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Jam</title>
+      <link>https://paumar.in/tags/game-jam/</link>
+      <pubDate>Sat, 03 Dec 2022 18:33:34 +0100</pubDate>
+      
+      <guid>https://paumar.in/tags/game-jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game project</title>
+      <link>https://paumar.in/tags/game-project/</link>
+      <pubDate>Sat, 03 Dec 2022 18:33:34 +0100</pubDate>
+      
+      <guid>https://paumar.in/tags/game-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University</title>
+      <link>https://paumar.in/tags/university/</link>
+      <pubDate>Sat, 03 Dec 2022 17:05:29 +0100</pubDate>
+      
+      <guid>https://paumar.in/tags/university/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

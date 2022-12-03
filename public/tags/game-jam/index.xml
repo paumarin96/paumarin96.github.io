@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Jam on Pau Marín</title>
+    <link>https://paumar.in/tags/game-jam/</link>
+    <description>Recent content in Game Jam on Pau Marín</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Dec 2022 18:33:34 +0100</lastBuildDate><atom:link href="https://paumar.in/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colorules</title>
+      <link>https://paumar.in/projects/colorules/</link>
+      <pubDate>Sat, 03 Dec 2022 18:33:34 +0100</pubDate>
+      
+      <guid>https://paumar.in/projects/colorules/</guid>
+      <description>A game made in 5 days&gt;A game made in 5 days # Colorules is a small game made in the Game Gen Game jam, by a team of 5 people.</description>
+    </item>
+    
+  </channel>
+</rss>

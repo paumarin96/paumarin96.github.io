@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pau Marín</title>
+    <link>https://paumar.in/</link>
+    <description>Recent content on Pau Marín</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Dec 2022 18:33:34 +0100</lastBuildDate><atom:link href="https://paumar.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://paumar.in/about-me/</link>
+      <pubDate>Sat, 03 Dec 2022 19:45:55 +0100</pubDate>
+      
+      <guid>https://paumar.in/about-me/</guid>
+      <description>I have a lot of cum inside my balls</description>
+      
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://paumar.in/skills/</link>
+      <pubDate>Sat, 03 Dec 2022 18:55:35 +0100</pubDate>
+      
+      <guid>https://paumar.in/skills/</guid>
+      <description>Programming&gt;Programming # Languages I know: C++, C#, Kotlin, GLSL and OpenGL 4
+Engines&gt;Engines # Unity&gt;Unity # I have multiple years of experience working with Unity on small-scale projects, and I&amp;rsquo;m highly proficient with C# programming inside of Unity.</description>
+      
+    </item>
+    
+    <item>
+      <title>Colorules</title>
+      <link>https://paumar.in/projects/colorules/</link>
+      <pubDate>Sat, 03 Dec 2022 18:33:34 +0100</pubDate>
+      
+      <guid>https://paumar.in/projects/colorules/</guid>
+      <description>A game made in 5 days&gt;A game made in 5 days # Colorules is a small game made in the Game Gen Game jam, by a team of 5 people.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://paumar.in/projects/colorules/featured.png" />
+    </item>
+    
+    <item>
+      <title>Froggen</title>
+      <link>https://paumar.in/projects/froggen/</link>
+      <pubDate>Sat, 03 Dec 2022 17:05:29 +0100</pubDate>
+      
+      <guid>https://paumar.in/projects/froggen/</guid>
+      <description>You are a frog with a very long tongue!&gt;You are a frog with a very long tongue! # Froggen is a physics-based platformer where the main mechanic is having a long tongue.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://paumar.in/projects/froggen/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sweet Dreams</title>
+      <link>https://paumar.in/projects/sweetdreams/</link>
+      <pubDate>Wed, 30 Nov 2022 17:28:09 +0100</pubDate>
+      
+      <guid>https://paumar.in/projects/sweetdreams/</guid>
+      <description>First University Project&gt;First University Project # Sweet Dreams is a simple 2D scroll based platformer. It was made in the span of 5 months during the Projects class.
+I was the lead developer and graphic designer of the project.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://paumar.in/projects/sweetdreams/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

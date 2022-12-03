@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paumar.in/sitemap.xml
