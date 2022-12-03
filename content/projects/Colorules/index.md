@@ -28,3 +28,6 @@ I was the programmer for the main color mechanics, while movement and the genera
 It was also my first jam, and I really liked the result and enjoyed the development.
 
 
+{{< button href="https://bitplayy.itch.io/colorules" target="_self" >}}
+Play it now on Itch.io
+{{< /button >}}

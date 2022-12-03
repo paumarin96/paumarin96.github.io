@@ -6,10 +6,66 @@ draft: false
 
 ## Programming
 
+{{< chart >}}
+type: 'bar',
+options:{
+    indexAxis: 'y'
+},
+data: {
+  labels: ['C++', 'C#', 'Kotlin', 'OpenGL 4', 'GLSL'],
+  datasets: [{
+    label: 'Familiarity',
+    data: [10, 10, 7, 6, 6],
+    backgroundColor: [
+        'rgba(255, 94, 91, 0.4)',
+        'rgba(255, 255, 234, 0.4)',
+        'rgba(0, 206, 203, 0.4)',
+        'rgba(255, 237, 102, 0.4)',
+        'rgba(35, 206, 107, 0.4)',
+
+    ],
+    borderColor: [
+        'rgba(255, 94, 91)',
+        'rgba(255, 255, 234)',
+        'rgba(0, 206, 203)',
+        'rgba(255, 237, 102)',
+        'rgba(35, 206, 107)'
+    ],
+    borderWidth: 2
+  }]
+}
+{{< /chart >}}
+
+
 **Languages I know:** C++, C#, Kotlin, GLSL and OpenGL 4
 
 
 ### Engines
+
+{{< chart >}}
+type: 'bar',
+options:{
+    indexAxis: 'y'
+},
+data: {
+  labels: ['Unity', 'Unreal Engine 5'],
+  datasets: [{
+    label: 'Familiarity',
+    data: [10, 7],
+    backgroundColor:[
+        'rgba(255, 94, 91, 0.4)',
+        'rgba(35, 206, 107, 0.4)'
+
+    ],
+    borderColor:[
+    'rgba(255, 94, 91)',
+    'rgba(35, 206, 107)'
+
+    ],
+    borderWidth: 2
+  }]
+}
+{{< /chart >}}
 
 #### Unity
 

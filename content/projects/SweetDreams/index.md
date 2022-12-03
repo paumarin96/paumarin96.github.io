@@ -19,5 +19,6 @@ I was the lead developer and graphic designer of the project.
 It won the ENTI Best Game of 1st course Prize, which is an anual event
 that celebrates the games that have been made at ENTI-UB University.
 
-
-[Play it now on Itch.io](https://focalita.itch.io/sweetdreams)
+{{< button href="https://focalita.itch.io/sweetdreams" target="_self" >}}
+Play it now on Itch.io
+{{< /button >}}

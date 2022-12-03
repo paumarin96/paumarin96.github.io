@@ -32,4 +32,6 @@ could really use some work.
 
 I may write a blog post of how I approached it in the future.
 
-[Play it now on Itch.io](https://bitplayy.itch.io/froggen)
+{{< button href="https://bitplayy.itch.io/froggen" target="_self" >}}
+Play it now on Itch.io
+{{< /button >}}
