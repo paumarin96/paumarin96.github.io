@@ -65,17 +65,17 @@ enableCodeCopy = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background
   #layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   #showViews = true
   #showLikes = true
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
 
 [sitemap]

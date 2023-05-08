@@ -1,10 +1,12 @@
 ---
 title: "Sweet Dreams"
-date: 2022-11-30T17:28:09+01:00
+date: 2021-06-30T17:28:09+01:00
 draft: false
 tags:
 - University
 - Game project
+
+summary: "Simple platformer game made for 1st year project at University"
 
 ---
 

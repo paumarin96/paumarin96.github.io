@@ -1,10 +1,13 @@
 ---
 title: "Colorules"
-date: 2022-12-03T18:33:34+01:00
+date: 2022-02-03T18:33:34+01:00
 draft: false
 tags:
 - Game Jam
 - Game project
+
+summary: "Gamejam puzzle game about interacting with colors"
+
 ---
 
 ## A game made in 5 days

@@ -1,10 +1,11 @@
 ---
 title: "Froggen"
-date: 2022-12-03T17:05:29+01:00
+date: 2022-06-30T17:28:09+01:00
 draft: false
 tags:
 - University
 - Game project
+summary: "Physics-based platformer where you play as a frog with a long tongue"
 
 ---
 
