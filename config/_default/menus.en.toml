@@ -12,8 +12,8 @@
 
 
 [[main]]
-  name = "Skills"
-  pageRef = "skills"
+  name = "Resume"
+  pageRef = "resume"
   weight = 10
 
 [[main]]
@@ -21,7 +21,10 @@
   pageRef = "projects"
   weight = 20
 
-
+[[main]]
+  name = "About me"
+  pageRef = "about-me"
+  weight = 5
 
 
 # -- Footer Menu --

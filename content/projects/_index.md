@@ -17,4 +17,4 @@ sharingLinks : false
 ---
 
 
-Find and play all my game projects bellow! - They are ordered by date 
+Find and play all my game projects bellow!

@@ -5,7 +5,7 @@ draft: false
 tags:
 - University
 - Game project
-summary: "Gamejam puzzle game about interacting with colors"
+summary: "A realtime strategy game mixed with action-style combat"
 
 ---
 
@@ -16,6 +16,8 @@ summary: "Gamejam puzzle game about interacting with colors"
 Take control of a grand warrior and rebuild your lost village while cleansing your new found home and defeating the incoming invaders.
 
 Manage your population and resources and spend them on new buildings to progress and defend your new home.
+
+This project is the first 3D project I've made outside of small prototypes. 
 
 {{< youtube Q6HqIGDO2L0 >}}
 
@@ -30,6 +32,8 @@ I also made the vast majority of art, including the characters and animations.
 
 At the same time, I was in charge of the combat system: designing it and implementing it. 
 This includes AI using behaviour trees, damage systems and animations, as well as particle and sound effects. 
+
+![Behaviour tree of the swordsman](behaviour-trees.png)
 
 ### Map system
 

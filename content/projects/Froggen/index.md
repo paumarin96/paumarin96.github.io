@@ -27,11 +27,17 @@ tongue, which was a big endeavour and took a lot of iterations to get right.
 ## Creating a physics-based tongue
 
 For this game, we wanted to have a physics-based tongue instead of a plain line.
-In the end, scope was too big and we couldn't finish enough mechanics to use the tongue,
-but the main grappling and enemy combat is pretty good, although the level design
-could really use some work.
+For that, I made use of Unity's physics system. The tongue is made of a varying number of capsules, which get spawned when the player throws the tongue.
+Those capsules are attached to each other using hinge joints, while a distance joint is keeping all the capsules within range. 
+This setup provides more stability to the tongue, which was an ongoing issue with the project.
 
-I may write a blog post of how I approached it in the future.
+At the same time, a lot of emphasis was put on making the tongue easy to control by the player. 
+This was achieved by adding an auto-aim system that used raycasts in this circular form:
+
+![Tongue](tongue.png)
+
+The idea behind this was to detect the best direction the tongue should go so the player doesn't miss.
+
 
 {{< button href="https://bitplayy.itch.io/froggen" target="_self" >}}
 Play it now on Itch.io
