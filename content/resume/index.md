@@ -64,7 +64,7 @@ I have a basic knowledge of **Blender**, **Substance Painter** and **Substance D
 I can make 3D Models, texture them with modern PBR techniques, and basic rigging / animation of 3D characters.
 
 ### Game and Level Design knowledge
-I have some game and level design knowledge, like KPIs, game balance, rewards, etc...
+I have some game, player psychology  and level design knowledge, like KPIs, game balance, rewarding, etc...
 
 ### Soft skills and hobbies
 Good communicator, responsable and fast learner. I also work good with teams.
