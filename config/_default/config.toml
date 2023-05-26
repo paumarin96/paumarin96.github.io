@@ -17,7 +17,6 @@ buildFuture = false
 
 [taxonomies]
   tag = 'tags'
-  cum = 'cums'
 
 
 [sitemap]
